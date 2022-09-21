@@ -1,2 +1,4 @@
-# stock-analysis
-Module 2
+#Module 2 Stock Analysis Refactoring
+
+##Overview of Project:
+###
